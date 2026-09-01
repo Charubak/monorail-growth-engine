@@ -1,4 +1,6 @@
-# Agent Skills: the growth desk that runs on Claude
+# Monorail Growth Engine
+
+The agent-skills growth desk behind Monorail's growth function, running on Claude.
 
 I run growth at [Monorail](https://monorail.xyz), the swap aggregator on Monad, as a one-person function. These are the Claude agent skills that make that possible. Each one packages a real workflow I ran manually first, with every correction from live runs written back into the skill.
 
